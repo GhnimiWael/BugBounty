@@ -1,0 +1,1 @@
+Bash script to automate the recon process using subfinder, dirserch, MassDNS, sublist3r, FFuF, WayBackURLs, nmap, vulners, GetJS, getallurls, XSSHUNTER, SQLMap, XXEinjector, SSRFDetector, GitTOOLS, Gitallsecrets, CORStest, EyeWintesss and parameth
