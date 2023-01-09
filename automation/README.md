@@ -1,6 +1,6 @@
 # Recon
 <p align="center" width="100%">
-    <img width="70%"src="https://i.imgur.com/yvAMzbm.jpg)"> 
+    <img width="70%"src="https://i.imgur.com/yvAMzbm.jpg"> 
 </p>
 
 ## recon.sh
